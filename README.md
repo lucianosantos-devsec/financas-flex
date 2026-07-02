@@ -67,8 +67,3 @@ A segurança não é uma camada adicionada depois — ela é parte do design des
 **Luciano Santos**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luciano--santos-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/luciano-santos-66a1a0416)
 [![Email](https://img.shields.io/badge/Email-luciano.santos.sec%40gmail.com-red?style=flat-square&logo=gmail)](mailto:luciano.santos.sec@gmail.com)
-```
-
----
-
-Cola, faz o commit e me manda o print!
